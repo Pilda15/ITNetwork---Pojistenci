@@ -72,9 +72,3 @@ while (pokracovat)
     Console.ReadKey();
     Console.Clear();
 }
-
-
-
-//Hledaný uživatel "Nalezený uživatel" vs Nenalezen, Odřádkování
-//Hledání - odstranění diakritiky
-// ReadKey/ Readline??

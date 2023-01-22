@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/Pojistenci.csproj": {}
+    "/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/Pojistenci.csproj": {}
   },
   "projects": {
-    "/Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/Pojistenci.csproj": {
+    "/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/Pojistenci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/Pojistenci.csproj",
+        "projectUniqueName": "/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/Pojistenci.csproj",
         "projectName": "Pojistenci",
-        "projectPath": "/Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/Pojistenci.csproj",
+        "projectPath": "/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/Pojistenci.csproj",
         "packagesPath": "/Users/martinpilisek/.nuget/packages/",
-        "outputPath": "/Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/obj/",
+        "outputPath": "/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/martinpilisek/.nuget/NuGet/NuGet.Config"

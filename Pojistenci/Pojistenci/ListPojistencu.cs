@@ -35,10 +35,14 @@ namespace Pojistenci
 		/// <param name="prijmeni">Příjmení</param>
 		public void VyhledejPojistence(string jmeno, string prijmeni)
 		{
-			if (databazePojistencu.Count() >0)
-                Console.WriteLine("Nalezený pojištěnec:");
-			else
-                Console.WriteLine("Pojištěnec nenalezen");
+			if (databazePojistencu.Count() > 0) { 
+                Console.WriteLine("\nNalezený pojištěnec:");
+				Console.WriteLine("\nJméno".PadRight(12) + "Příjmení".PadRight(12) +
+                "Věk".PadRight(5) + "TelČíslo".PadRight(9));
+				Console.WriteLine("--------------------------------------");
+            }
+            else
+                Console.WriteLine("\nPojištěnec nenalezen");
 
             foreach (Clovek clovek in databazePojistencu)
 			{

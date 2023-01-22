@@ -13,3 +13,18 @@
 /Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.pdb
 /Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.genruntimeconfig.cache
 /Users/martinpilisek/Documents/ITnetwork/Závěrečný projekt/Pojistenci/Pojistenci/obj/Debug/net7.0/ref/Pojistenci.dll
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/bin/Debug/net7.0/Pojistenci
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/bin/Debug/net7.0/Pojistenci.deps.json
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/bin/Debug/net7.0/Pojistenci.runtimeconfig.json
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/bin/Debug/net7.0/Pojistenci.dll
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/bin/Debug/net7.0/Pojistenci.pdb
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.csproj.AssemblyReference.cache
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.AssemblyInfoInputs.cache
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.AssemblyInfo.cs
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.csproj.CoreCompileInputs.cache
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.dll
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/refint/Pojistenci.dll
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.pdb
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/Pojistenci.genruntimeconfig.cache
+/Users/martinpilisek/projectdude/Pojistenci/Pojistenci/obj/Debug/net7.0/ref/Pojistenci.dll
